@@ -1,0 +1,23 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+# Portable UAVDT dataset config for cloned repositories and lab servers.
+# Put the extracted dataset at:
+#   <repo-root>/UAVDT Dataset
+#
+# This project currently uses a processed split layout with YOLO labels already present:
+#   UAVDT Dataset/train/images
+#   UAVDT Dataset/train/labels
+#   UAVDT Dataset/val/images
+#   UAVDT Dataset/val/labels
+#   UAVDT Dataset/test/images
+#   UAVDT Dataset/test/labels
+
+path: UAVDT Dataset
+train: train/images
+val: val/images
+test: test/images
+
+names:
+  0: car
+  1: truck
+  2: bus

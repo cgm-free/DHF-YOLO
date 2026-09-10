@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: DHF-YOLO for UAV Aerial Small Object Detection
+message: >-
+  If you use DHF-YOLO, please cite this software and the associated paper.
+type: software
+authors:
+  - given-names: Guoming
+    family-names: Chu
+    affiliation: Chengdu Neusoft University
+  - given-names: Shenghui
+    family-names: Liu
+    affiliation: Chengdu Neusoft University
+  - given-names: Xuhong
+    family-names: Luo
+    affiliation: Sichuan Vocational College of Chemical Industry
+  - given-names: Yaoyao
+    family-names: Chen
+    affiliation: Chengdu Neusoft University
+repository-code: "https://github.com/cgm-free/DHF-YOLO"
+license: AGPL-3.0

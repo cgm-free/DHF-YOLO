@@ -1,0 +1,26 @@
+# Ultralytics 🚀 AGPL-3.0 License - https://ultralytics.com/license
+
+# Portable VisDrone2019-DET dataset config for cloned repositories and cloud servers.
+# Put the extracted dataset at:
+#   <repo-root>/VisDrone2019-DET Dataset
+#
+# Before training, convert original VisDrone annotations to YOLO labels:
+#   python -c "from ultralytics.data.converter import convert_visdrone_det_to_yolo; convert_visdrone_det_to_yolo('VisDrone2019-DET Dataset')"
+
+path: VisDrone2019-DET Dataset # dataset root dir, resolved from repo root when scripts cd there
+train: VisDrone2019-DET-train/images # 6471 images
+val: VisDrone2019-DET-val/images # 548 images
+test: VisDrone2019-DET-test-dev/images # 1610 images with annotations
+
+# Classes
+names:
+  0: pedestrian
+  1: people
+  2: bicycle
+  3: car
+  4: van
+  5: truck
+  6: tricycle
+  7: awning-tricycle
+  8: bus
+  9: motor

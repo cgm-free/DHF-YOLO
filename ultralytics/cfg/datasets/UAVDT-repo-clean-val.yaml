@@ -1,0 +1,16 @@
+# Ultralytics AGPL-3.0 License - https://ultralytics.com/license
+
+# Processed UAVDT derivative used only for the bounded exploratory check.
+# Extract the archive as <repo-root>/UAVDT Dataset and copy
+# experiments/dhf_yolo26_p2_visdrone/uavdt_exploratory_20260905/
+# val_clean_no_train_overlap.txt into that dataset root.
+
+path: UAVDT Dataset
+train: train/images
+val: val_clean_no_train_overlap.txt
+test: test/images
+
+names:
+  0: car
+  1: truck
+  2: bus

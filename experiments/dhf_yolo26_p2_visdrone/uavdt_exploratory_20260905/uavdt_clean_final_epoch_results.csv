@@ -1,0 +1,4 @@
+"model","checkpoint","epochs","precision","recall","map50","map50_95","val_images","val_boxes","checkpoint_sha256","source_run"
+"YOLO26n","last.pt","100","0.599","0.628","0.599","0.310","270","7014","065bc7f47568e10050171b32ea91901dcfae7a2322bcc31ed079dd1954763932","33_yolo26n_baseline_ciou_uavdt_lab4090_e100"
+"YOLO26n-P2","last.pt","100","0.662","0.670","0.672","0.373","270","7014","e7b295ad3ed0e95c924221ca2dcee47132b429ba148fdffc01d6d037941c72ef","31_yolo26n_p2_baseline_ciou_uavdt_lab4090_e100"
+"DHF-YOLO","last.pt","100","0.749","0.634","0.707","0.404","270","7014","b2fd2dc630142e3cfd10ee4888d38353ee12523d5fd484b25bf7c2c837d7c957","32_dhf_yolo26n_p2_ciou_uavdt_lab4090_e100"

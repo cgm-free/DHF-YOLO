@@ -1,0 +1,270 @@
+./val/images/DJI-405-720p02251.jpg
+./val/images/DJI-405-720p03251.jpg
+./val/images/DJI-670-720p01301.jpg
+./val/images/DJI_0032 (7_19)_n141.jpg
+./val/images/DJI_0032 (7_19)_n179.jpg
+./val/images/DJI_0032 (7_19)_n214.jpg
+./val/images/DJI_0032 (7_19)_n227.jpg
+./val/images/DJI_0032 (7_19)_n245.jpg
+./val/images/DJI_0032 (7_19)_n287.jpg
+./val/images/DJI_0032 (7_19)_n323.jpg
+./val/images/DJI_0032 (7_19)_n346.jpg
+./val/images/DJI_0032 (7_19)_n458.jpg
+./val/images/DJI_0032 (7_19)_n682.jpg
+./val/images/DJI_0032 (7_19)_n687.jpg
+./val/images/DJI_0032 (7_19)_n744.jpg
+./val/images/DJI_0032 (7_19)_n761.jpg
+./val/images/DJI_0033 (7_24)_n111.jpg
+./val/images/DJI_0033 (7_24)_n121.jpg
+./val/images/DJI_0033 (7_24)_n125.jpg
+./val/images/DJI_0033 (7_24)_n162.jpg
+./val/images/DJI_0033 (7_24)_n178.jpg
+./val/images/DJI_0033 (7_24)_n201.jpg
+./val/images/DJI_0033 (7_24)_n211.jpg
+./val/images/DJI_0033 (7_24)_n224.jpg
+./val/images/DJI_0033 (7_24)_n240.jpg
+./val/images/DJI_0033 (7_24)_n253.jpg
+./val/images/DJI_0033 (7_24)_n279.jpg
+./val/images/DJI_0033 (7_24)_n293.jpg
+./val/images/DJI_0033 (7_24)_n362.jpg
+./val/images/DJI_0033 (7_24)_n41.jpg
+./val/images/DJI_0033 (7_24)_n83.jpg
+./val/images/DJI_0033 (7_24)_n85.jpg
+./val/images/DJI_0034 (7_25)_n34.jpg
+./val/images/DJI_0034 (7_25)_n61.jpg
+./val/images/DJI_0954 (6_33)_n0.jpg
+./val/images/DJI_0954 (6_33)_n1.jpg
+./val/images/DJI_0954 (6_33)_n127.jpg
+./val/images/DJI_0954 (6_33)_n180.jpg
+./val/images/DJI_0954 (6_33)_n203.jpg
+./val/images/DJI_0954 (6_33)_n208.jpg
+./val/images/DJI_0954 (6_33)_n231.jpg
+./val/images/DJI_0954 (6_33)_n232.jpg
+./val/images/DJI_0954 (6_33)_n271.jpg
+./val/images/DJI_0954 (6_33)_n283.jpg
+./val/images/DJI_0954 (6_33)_n36.jpg
+./val/images/DJI_0954 (6_33)_n366.jpg
+./val/images/DJI_0954 (6_33)_n370.jpg
+./val/images/DJI_0954 (6_33)_n63.jpg
+./val/images/DJI_0954 (6_33)_n64.jpg
+./val/images/DJI_0955 (6_23)_n101.jpg
+./val/images/DJI_0955 (6_23)_n107.jpg
+./val/images/DJI_0955 (6_23)_n139.jpg
+./val/images/DJI_0955 (6_23)_n164.jpg
+./val/images/DJI_0955 (6_23)_n194.jpg
+./val/images/DJI_0955 (6_23)_n249.jpg
+./val/images/DJI_0955 (6_23)_n326.jpg
+./val/images/DJI_0955 (6_23)_n332.jpg
+./val/images/DJI_0955 (6_23)_n44.jpg
+./val/images/DJI_0955 (6_23)_n54.jpg
+./val/images/DJI_0955 (6_23)_n60.jpg
+./val/images/DJI_0955 (6_23)_n84.jpg
+./val/images/DJI_0955 (6_23)_n86.jpg
+./val/images/DJI_0955 (6_23)_n92.jpg
+./val/images/DJI_0956 (6_28)_n100.jpg
+./val/images/DJI_0956 (6_28)_n139.jpg
+./val/images/DJI_0956 (6_28)_n197.jpg
+./val/images/DJI_0956 (6_28)_n209.jpg
+./val/images/DJI_0956 (6_28)_n210.jpg
+./val/images/DJI_0956 (6_28)_n230.jpg
+./val/images/DJI_0956 (6_28)_n238.jpg
+./val/images/DJI_0956 (6_28)_n256.jpg
+./val/images/DJI_0956 (6_28)_n291.jpg
+./val/images/DJI_0956 (6_28)_n319.jpg
+./val/images/DJI_0956 (6_28)_n6.jpg
+./val/images/DJI_0956 (6_28)_n67.jpg
+./val/images/DJI_0957 (6_35)_n114.jpg
+./val/images/DJI_0957 (6_35)_n12.jpg
+./val/images/DJI_0957 (6_35)_n35.jpg
+./val/images/DJI_0957 (6_35)_n56.jpg
+./val/images/DJI_0957 (6_35)_n9.jpg
+./val/images/DJI_0958(6_57)_n146.jpg
+./val/images/DJI_0958(6_57)_n166.jpg
+./val/images/DJI_0958(6_57)_n245.jpg
+./val/images/DJI_0958(6_57)_n293.jpg
+./val/images/DJI_0958(6_57)_n302.jpg
+./val/images/DJI_0958(6_57)_n335.jpg
+./val/images/DJI_0958(6_57)_n348.jpg
+./val/images/DJI_0960(7_07)_n122.jpg
+./val/images/DJI_0960(7_07)_n140.jpg
+./val/images/DJI_0960(7_07)_n169.jpg
+./val/images/DJI_0960(7_07)_n216.jpg
+./val/images/DJI_0960(7_07)_n258.jpg
+./val/images/DJI_0960(7_07)_n344.jpg
+./val/images/DJI_0960(7_07)_n362.jpg
+./val/images/DJI_0960(7_07)_n89.jpg
+./val/images/DJI_0960(7_07)_n91.jpg
+./val/images/DJI_0961(7_10)_n1.jpg
+./val/images/DJI_0961(7_10)_n115.jpg
+./val/images/DJI_0961(7_10)_n13.jpg
+./val/images/DJI_0961(7_10)_n137.jpg
+./val/images/DJI_0961(7_10)_n140.jpg
+./val/images/DJI_0961(7_10)_n144.jpg
+./val/images/DJI_0961(7_10)_n152.jpg
+./val/images/DJI_0961(7_10)_n163.jpg
+./val/images/DJI_0961(7_10)_n200.jpg
+./val/images/DJI_0961(7_10)_n203.jpg
+./val/images/DJI_0961(7_10)_n219.jpg
+./val/images/DJI_0961(7_10)_n32.jpg
+./val/images/DJI_0961(7_10)_n45.jpg
+./val/images/DJI_0961(7_10)_n70.jpg
+./val/images/DJI_0962(7_32)_n119.jpg
+./val/images/DJI_0962(7_32)_n16.jpg
+./val/images/DJI_0962(7_32)_n189.jpg
+./val/images/DJI_0962(7_32)_n203.jpg
+./val/images/DJI_0962(7_32)_n218.jpg
+./val/images/DJI_0962(7_32)_n298.jpg
+./val/images/DJI_0962(7_32)_n303.jpg
+./val/images/DJI_0962(7_32)_n31.jpg
+./val/images/DJI_0962(7_32)_n32.jpg
+./val/images/DJI_0962(7_32)_n364.jpg
+./val/images/DJI_0962(7_32)_n369.jpg
+./val/images/DJI_0962(7_32)_n69.jpg
+./val/images/DJI_0962(7_32)_n90.jpg
+./val/images/DJI_0962(7_32)_n98.jpg
+./val/images/DJI_0963(7_37)_n117.jpg
+./val/images/DJI_0963(7_37)_n130.jpg
+./val/images/DJI_0963(7_37)_n174.jpg
+./val/images/DJI_0963(7_37)_n224.jpg
+./val/images/DJI_0963(7_37)_n256.jpg
+./val/images/DJI_0963(7_37)_n34.jpg
+./val/images/DJI_0963(7_37)_n362.jpg
+./val/images/DJI_0963(7_37)_n98.jpg
+./val/images/DJI_0964(7_41)_n120.jpg
+./val/images/DJI_0964(7_41)_n13.jpg
+./val/images/DJI_0964(7_41)_n136.jpg
+./val/images/DJI_0964(7_41)_n233.jpg
+./val/images/DJI_0964(7_41)_n251.jpg
+./val/images/DJI_0964(7_41)_n253.jpg
+./val/images/DJI_0964(7_41)_n295.jpg
+./val/images/DJI_0964(7_41)_n298.jpg
+./val/images/DJI_0964(7_41)_n347.jpg
+./val/images/DJI_0964(7_41)_n416.jpg
+./val/images/DJI_0964(7_41)_n423.jpg
+./val/images/DJI_0964(7_41)_n451.jpg
+./val/images/DJI_0964(7_41)_n482.jpg
+./val/images/DJI_0964(7_41)_n513.jpg
+./val/images/DJI_0964(7_41)_n606.jpg
+./val/images/DJI_0964(7_41)_n634.jpg
+./val/images/DJI_0964(7_41)_n640.jpg
+./val/images/DJI_0964(7_41)_n652.jpg
+./val/images/DJI_0964(7_41)_n672.jpg
+./val/images/DJI_0964(7_41)_n674.jpg
+./val/images/DJI_0964(7_41)_n791.jpg
+./val/images/DJI_0965(7_42)_n12.jpg
+./val/images/DJI_0965(7_42)_n45.jpg
+./val/images/DJI_0965(7_42)_n49.jpg
+./val/images/DJI_0965(7_42)_n5.jpg
+./val/images/DJI_0965(7_42)_n63.jpg
+./val/images/DJI_0970_n127.jpg
+./val/images/DJI_0970_n132.jpg
+./val/images/DJI_0970_n267.jpg
+./val/images/DJI_0970_n273.jpg
+./val/images/DJI_0970_n281.jpg
+./val/images/det_ucystr__1011.jpg
+./val/images/det_ucystr__1078.jpg
+./val/images/det_ucystr__110.jpg
+./val/images/det_ucystr__1106.jpg
+./val/images/det_ucystr__1109.jpg
+./val/images/det_ucystr__1116.jpg
+./val/images/det_ucystr__1184.jpg
+./val/images/det_ucystr__1275.jpg
+./val/images/det_ucystr__1291.jpg
+./val/images/det_ucystr__1304.jpg
+./val/images/det_ucystr__1319.jpg
+./val/images/det_ucystr__1369.jpg
+./val/images/det_ucystr__1398.jpg
+./val/images/det_ucystr__1400.jpg
+./val/images/det_ucystr__1447.jpg
+./val/images/det_ucystr__1469.jpg
+./val/images/det_ucystr__1548.jpg
+./val/images/det_ucystr__1561.jpg
+./val/images/det_ucystr__1582.jpg
+./val/images/det_ucystr__1593.jpg
+./val/images/det_ucystr__1606.jpg
+./val/images/det_ucystr__1644.jpg
+./val/images/det_ucystr__1724.jpg
+./val/images/det_ucystr__1787.jpg
+./val/images/det_ucystr__1866.jpg
+./val/images/det_ucystr__229.jpg
+./val/images/det_ucystr__281.jpg
+./val/images/det_ucystr__325.jpg
+./val/images/det_ucystr__333.jpg
+./val/images/det_ucystr__363.jpg
+./val/images/det_ucystr__372.jpg
+./val/images/det_ucystr__387.jpg
+./val/images/det_ucystr__402.jpg
+./val/images/det_ucystr__455.jpg
+./val/images/det_ucystr__463.jpg
+./val/images/det_ucystr__482.jpg
+./val/images/det_ucystr__516.jpg
+./val/images/det_ucystr__527.jpg
+./val/images/det_ucystr__528.jpg
+./val/images/det_ucystr__565.jpg
+./val/images/det_ucystr__592.jpg
+./val/images/det_ucystr__594.jpg
+./val/images/det_ucystr__60.jpg
+./val/images/det_ucystr__616.jpg
+./val/images/det_ucystr__641.jpg
+./val/images/det_ucystr__655.jpg
+./val/images/det_ucystr__658.jpg
+./val/images/det_ucystr__777.jpg
+./val/images/det_ucystr__780.jpg
+./val/images/det_ucystr__810.jpg
+./val/images/det_ucystr__813.jpg
+./val/images/det_ucystr__834.jpg
+./val/images/det_ucystr__873.jpg
+./val/images/det_ucystr__880.jpg
+./val/images/det_ucystr__896.jpg
+./val/images/det_ucystr__939.jpg
+./val/images/det_ucystr__951.jpg
+./val/images/dhi_05500101_6.jpg
+./val/images/dji5400051_5.jpg
+./val/images/dji5400501_4.jpg
+./val/images/dji5400701_6.jpg
+./val/images/dji5400901_3.jpg
+./val/images/dji_399_150m00701_4.jpg
+./val/images/dji_399_150m01001_5.jpg
+./val/images/dji_399_150m01901_3.jpg
+./val/images/dji_399_150m02201_3.jpg
+./val/images/dji_478_150m00401_4.jpg
+./val/images/dji_478_150m00601_4.jpg
+./val/images/dji_64_150m00001_4.jpg
+./val/images/dji_64_150m00601_2.jpg
+./val/images/dji_65_150m01801_5.jpg
+./val/images/dji_65_150m02801_3.jpg
+./val/images/djibridge_150m01001_5.jpg
+./val/images/lim_1245.jpg
+./val/images/lim_270.jpg
+./val/images/lim_3510.jpg
+./val/images/pavilion_048_1230.jpg
+./val/images/pavilion_048_2280.jpg
+./val/images/pavilion_048_3135.jpg
+./val/images/pavilion_048_345.jpg
+./val/images/pavilion_048_3450.jpg
+./val/images/pavilion_048_3525.jpg
+./val/images/pavilion_048_3720.jpg
+./val/images/pavilion_048_3990.jpg
+./val/images/pavilion_048_420.jpg
+./val/images/pavilion_048_4980.jpg
+./val/images/pavilion_048_5565.jpg
+./val/images/pavilion_048_6135.jpg
+./val/images/pavilion_048_7380.jpg
+./val/images/pavilion_048_7485.jpg
+./val/images/train125.jpg
+./val/images/train27.jpg
+./val/images/train39.jpg
+./val/images/train7.jpg
+./val/images/train86.jpg
+./val/images/train95.jpg
+./val/images/traina163.jpg
+./val/images/traina17.jpg
+./val/images/traina183.jpg
+./val/images/traina204.jpg
+./val/images/traina217.jpg
+./val/images/traina228.jpg
+./val/images/traina257.jpg
+./val/images/traina263.jpg
+./val/images/traina341.jpg
+./val/images/traina347.jpg
+./val/images/traina96.jpg
